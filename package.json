@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "creating package.json",
+  "main": "app.js",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test this!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marksmoore/portfolio-generator.git"
+  },
+  "author": "msmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marksmoore/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/marksmoore/portfolio-generator#readme"
+}
